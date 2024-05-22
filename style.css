@@ -1,0 +1,14 @@
+body{
+margin: 0;}
+ .heading{
+    background-color: #e7e7e7;
+    font-size: 20px;
+    width: 1300px;
+    margin-left: 16px;
+    position: absolute;
+   
+    border-spacing: 55px 0px;
+}
+.moon{
+    margin-left: 0px;
+}
